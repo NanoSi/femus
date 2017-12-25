@@ -1,4 +1,11 @@
+<<<<<<< HEAD
     FEMuS
+=======
+----111
+
+
+FEMuS
+>>>>>>> b5e83abfd9a689540e9cd3b6bc3530e4094a50e3
 ======
 
 Welcome to the FEMuS project! FEMuS is an open-source Finite Element C++ library 
